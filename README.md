@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
 
-Hi Humans!
+Hi Humans! This is a readme file. I would like to write some here.
+What would you do?
